@@ -1,0 +1,18 @@
+{
+  "mainUrl": "https://nakorndev.github.io/cheatsheet-git-graph/",
+  "startUrl": "/cheatsheet-git-graph/",
+  "title": "Git Graph Cheatsheet",
+  "description": "สูตรโกงสำหรับการใช้งาน Git Graph",
+  "keywords": "cheatsheet, git, git gui, git graph",
+  "themeLight": false,
+  "themeColor": "#F44D27",
+  "lang": "th",
+  "author": {
+    "name": "nakorndev",
+    "link": "http://github.com/nakorndev"
+  },
+  "menus": [
+    { "label": "เรียนรู้การเขียนโค้ดกับ นครโค้ด", "href": "https://www.facebook.com/nakorncode" },
+    { "label": "รวมสูตรโกงอื่นๆ", "href": "https://nakorndev.github.io/cheatsheet/" }
+  ]
+}
